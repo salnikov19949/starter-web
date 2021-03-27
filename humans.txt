@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Anton Salnikov <twitter>
+    Anton Salnikov
+    salnikov.19949@gmail.com
+    Engineer
 
 # THANKS
 
