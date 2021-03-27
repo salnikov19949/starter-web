@@ -1,6 +1,8 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+Hi, I am modifiing the file previous
+
 # TEAM
 
     Anton Salnikov
