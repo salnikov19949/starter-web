@@ -3,6 +3,9 @@
 
 Hi, I am modifiing the file previous
 
+Hi, Going to insert conflicts in my feature branch
+
+
 # TEAM
 
     Anton Salnikov
