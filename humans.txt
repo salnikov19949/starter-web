@@ -3,6 +3,8 @@
 
 Hi, I am modifiing the file previous
 
+Adding important notes on git stash
+
 
 # TEAM
 
