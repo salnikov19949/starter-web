@@ -1,1 +1,1 @@
-The 2021 Mercedes-BenzA-Class Limousine will be offered in three variants - A-Class Limousine Petrol, A-Class Limousine Diesel and the AMG A-Class, the A35 sedan to be specific
+This is a GIT tag commit.The 2021 Mercedes-BenzA-Class Limousine will be offered in three variants - A-Class Limousine Petrol, A-Class Limousine Diesel and the AMG A-Class, the A35 sedan to be specific
